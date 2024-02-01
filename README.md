@@ -3,11 +3,11 @@
 
 Highly skilled Cloud Operations, DevOps, and Reliability Engineer with over 5 years of experience driving cost savings and ensuring exceptional uptime. Proven track record of reducing downtime and security incidents through automation and innovative solutions. A collaborative and motivated self-starter proficient in AWS, Terraform, Datadog, Gitlab, Docker, and Kubernetes.
 
-<h3 align="left">Looking forward to collaborate with people 💡💡💡 </h3>
+<h3 align="left">Looking forward to collaborate with people. 💡💡💡 </h3>
 
 - 🤝🤝 I’m looking to collaborate on  **Cloud and DevOps Technologies**
 
-- 💬 Ask me about **Linux, Amazon Web Services, Google Cloud Platform, Ansible, Terraform, Kubernetes, and Docker**
+- 💬 Ask me about **Linux, Amazon Web Services, Google Cloud Platform, Ansible, Terraform, Kubernetes, and Docker.**
 
 - 📫 How to reach me **hugo.obandoyaml@outlook.com**
 
