@@ -5,9 +5,9 @@ Highly skilled Cloud Operations, DevOps, and Reliability Engineer with over 5 ye
 
 <h3 align="left">Looking forward to collaborate with people 💡💡💡 </h3>
 
-- 🤝🤝 I’m looking to collaborate on  **Cloud and DevOps Technologies**
+- 🤝🤝 I’m looking to collaborate on  **Cloud and DevOps Technologies.**
 
-- 💬 Ask me about **Linux, Amazon Web Services, Google Cloud Platform, Ansible, Terraform, Kubernetes, and Docker**
+- 💬 Ask me about **Linux, Amazon Web Services, Google Cloud Platform, Ansible, Terraform, Kubernetes, and Docker.**
 
 - 📫 How to reach me **hugo.obandoyaml@outlook.com**
 
@@ -17,7 +17,7 @@ Highly skilled Cloud Operations, DevOps, and Reliability Engineer with over 5 ye
   <i class="fab fa-linkedin"></i> [Click Link Here](https://www.linkedin.com/in/hugo-obando-661166189)
 
 
-- ⚡ Fun fact **My passion for learning is only matched by my love for coffee ☕️ and tacos 🌮.☕️**
+- ⚡ Fun fact: **My passion for learning is only matched by my love for coffee ☕️ and tacos 🌮.☕️**
 
 
 <h3 align="left">Languages and Tools:</h3>
